@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
     StorageReference ref;
     private int Imagedata=1;
     Uri filepath;
+    String a = "Changes";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
